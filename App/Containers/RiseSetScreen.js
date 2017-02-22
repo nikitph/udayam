@@ -34,7 +34,7 @@ class RiseSetScreen extends React.Component {
       this.spinValue,
       {
         toValue: 1,
-        duration: 100000,
+        duration: 200000,
         easing: Easing.linear
       }
     ).start(() => this.spin())
@@ -96,8 +96,7 @@ class RiseSetScreen extends React.Component {
 
           <View style={{flex:0.1, justifyContent:'center'}}>
             <RoundedButton onPress={()=>this.props.riseSetReq({lat:this.state.latitude, lang:this.state.longitude})}>
-              Component Examples Screen
-            </RoundedButton>
+Calculate Sunrise & Sunset            </RoundedButton>
           </View>
 
 
