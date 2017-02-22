@@ -8,7 +8,10 @@ const images = {
   tileBg: require('../Images/tile_bg.png'),
   background: require('../Images/BG.png'),
   moon: require('../Images/moon.png'),
-  sun: require('../Images/sun.png')
+  sun: require('../Images/sun.png'),
+  uday: require('../Images/udayam.png'),
+  csun: require('../Images/csun.png')
+
 
 }
 
