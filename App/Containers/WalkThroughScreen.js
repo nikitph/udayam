@@ -43,6 +43,9 @@ class WalkThroughScreen extends React.Component {
                   Start
                 </RoundedButton>
               </View>
+            <Text
+              style={{fontFamily:'American Typewriter', textAlign:'center', color:'#8F7140', fontSize:10, marginLeft:25,  marginRight:25,  marginTop:-75}}>
+              Data courtesy of sunrise-sunset.org</Text>
           </View>
         </IndicatorViewPager>
 
