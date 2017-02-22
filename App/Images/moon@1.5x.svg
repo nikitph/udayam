@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500px" height="500px" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>moon@1.5x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="moon">
+            <g id="Layer_1">
+                <g>
+                    <circle id="Oval" fill="#022730" cx="249.6" cy="250" r="249.6"></circle>
+                    <path d="M72.8,73.2 C170.4,-24.4 328.8,-24.4 426.4,73.2 C524,170.8 524,329.2 426.4,426.8" id="Shape" fill="#022730"></path>
+                    <g id="Group" transform="translate(88.000000, 70.000000)" fill="#DCF9F6">
+                        <ellipse id="Oval" cx="45.6" cy="355.2" rx="2.4" ry="21.6"></ellipse>
+                        <ellipse id="Oval" cx="45.6" cy="356" rx="21.6" ry="2.4"></ellipse>
+                        <ellipse id="Oval" transform="translate(338.471292, 80.982226) rotate(-45.137749) translate(-338.471292, -80.982226) " cx="338.471292" cy="80.9822262" rx="21.5998553" ry="2.39998392"></ellipse>
+                        <ellipse id="Oval" transform="translate(338.223759, 81.242603) rotate(45.137749) translate(-338.223759, -81.242603) " cx="338.223759" cy="81.242603" rx="21.5998553" ry="2.39998392"></ellipse>
+                        <ellipse id="Oval" cx="278.4" cy="14.4" rx="0.8" ry="9.6"></ellipse>
+                        <ellipse id="Oval" cx="278.4" cy="14.4" rx="9.6" ry="0.8"></ellipse>
+                        <ellipse id="Oval" transform="translate(90.386434, 32.907041) rotate(224.708297) translate(-90.386434, -32.907041) " cx="90.3864336" cy="32.9070406" rx="10.400035" ry="0.800002696"></ellipse>
+                        <ellipse id="Oval" transform="translate(90.491451, 32.741621) rotate(-44.708297) translate(-90.491451, -32.741621) " cx="90.4914507" cy="32.7416209" rx="10.400035" ry="0.800002696"></ellipse>
+                        <ellipse id="Oval" transform="translate(8.569255, 295.442649) rotate(224.854148) translate(-8.569255, -295.442649) " cx="8.5692554" cy="295.442649" rx="10.399934" ry="0.79999492"></ellipse>
+                        <ellipse id="Oval" transform="translate(9.137087, 295.196925) rotate(-44.854148) translate(-9.137087, -295.196925) " cx="9.1370865" cy="295.196925" rx="10.399934" ry="0.79999492"></ellipse>
+                        <ellipse id="Oval" transform="translate(215.406002, 4.877463) rotate(-45.583390) translate(-215.406002, -4.877463) " cx="215.406002" cy="4.8774631" rx="4.8002028" ry="0.800033799"></ellipse>
+                        <ellipse id="Oval" transform="translate(215.507361, 5.241441) rotate(45.583390) translate(-215.507361, -5.241441) " cx="215.507361" cy="5.2414413" rx="4.8002028" ry="0.800033799"></ellipse>
+                        <ellipse id="Oval" transform="translate(127.491973, 376.725695) rotate(-45.291703) translate(-127.491973, -376.725695) " cx="127.491973" cy="376.725695" rx="4.80001618" ry="0.800002696"></ellipse>
+                        <ellipse id="Oval" transform="translate(127.803256, 377.212441) rotate(45.291703) translate(-127.803256, -377.212441) " cx="127.803256" cy="377.212441" rx="4.80001618" ry="0.800002696"></ellipse>
+                        <path d="M237.6,269.6 C149.6,269.6 77.6,197.6 77.6,109.6 C77.6,82.4 84.8,56.8 96.8,34.4 C40.8,59.2 1.6,115.2 1.6,180 C1.6,268 73.6,340 161.6,340 C222.4,340 276,305.6 302.4,255.2 C283.2,264 260.8,269.6 237.6,269.6 L237.6,269.6 Z" id="Shape"></path>
+                    </g>
+                    <g id="Group" transform="translate(123.000000, 155.000000)" fill="#78A8A0">
+                        <circle id="Oval" cx="15.4" cy="10.2" r="9.6"></circle>
+                        <circle id="Oval" cx="1.8" cy="46.2" r="1.6"></circle>
+                    </g>
+                    <circle id="Oval" fill="#DCF9F6" cx="202.4" cy="157.2" r="8"></circle>
+                    <circle id="Oval" fill="#C3E5E0" cx="257.6" cy="153.2" r="2.4"></circle>
+                    <circle id="Oval" fill="#78A8A0" cx="278.4" cy="126" r="2.4"></circle>
+                    <circle id="Oval" fill="#DCF9F6" cx="201.6" cy="127.6" r="4"></circle>
+                    <circle id="Oval" fill="#95BFB9" cx="233.6" cy="114" r="1.6"></circle>
+                    <g id="Group" transform="translate(264.000000, 150.000000)" fill="#C3E5E0">
+                        <circle id="Oval" cx="6.4" cy="56" r="6.4"></circle>
+                        <circle id="Oval" cx="54.4" cy="52" r="4"></circle>
+                        <circle id="Oval" cx="64.8" cy="6.4" r="6.4"></circle>
+                    </g>
+                    <g id="Group" transform="translate(150.000000, 269.000000)" fill="#DCF9F6">
+                        <circle id="Oval" cx="6" cy="26.6" r="5.6"></circle>
+                        <circle id="Oval" cx="63.6" cy="2.6" r="2.4"></circle>
+                        <circle id="Oval" cx="91.6" cy="62.6" r="9.6"></circle>
+                    </g>
+                    <circle id="Oval" fill="#78A8A0" cx="124.8" cy="254.8" r="6.4"></circle>
+                    <circle id="Oval" fill="#C3E5E0" cx="267.2" cy="250.8" r="1.6"></circle>
+                    <circle id="Oval" fill="#95BFB9" cx="344" cy="254" r="4"></circle>
+                    <g id="Group" transform="translate(164.000000, 302.000000)" fill="#DCF9F6">
+                        <circle id="Oval" cx="10.4" cy="37.6" r="9.6"></circle>
+                        <circle id="Oval" cx="29.6" cy="3.2" r="3.2"></circle>
+                    </g>
+                    <circle id="Oval" fill="#C3E5E0" cx="292.8" cy="342.8" r="3.2"></circle>
+                    <g id="Group" transform="translate(200.000000, 322.000000)" fill="#95BFB9">
+                        <circle id="Oval" cx="41.6" cy="47.2" r="2.4"></circle>
+                        <circle id="Oval" cx="1.6" cy="43.2" r="1.6"></circle>
+                        <circle id="Oval" cx="132.8" cy="6.4" r="6.4"></circle>
+                    </g>
+                    <circle id="Oval" fill="#C3E5E0" cx="284" cy="375.6" r="4"></circle>
+                    <circle id="Oval" fill="#DCF9F6" cx="245.6" cy="289.2" r="3.2"></circle>
+                    <circle id="Oval" fill="#95BFB9" cx="353.6" cy="300.4" r="6.4"></circle>
+                    <circle id="Oval" fill="#78A8A0" cx="134.4" cy="323.6" r="5.6"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
