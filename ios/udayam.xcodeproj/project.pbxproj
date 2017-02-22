@@ -26,6 +26,7 @@
 		19B38FD2A1104AD693D4AFB2 /* Foundation.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 093A8A8B67914F569582B53E /* Foundation.ttf */; };
 		2C312A4C0B49445D830E3938 /* MaterialIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 55E667F3854D4B7B9822F875 /* MaterialIcons.ttf */; };
 		43472D0813FB448DA2CBE420 /* Entypo.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 884889EFE85E4A1786F1E62F /* Entypo.ttf */; };
+		502BEE071E5E5A1D00E54FDC /* udayam.png in Resources */ = {isa = PBXBuildFile; fileRef = 502BEE061E5E5A1D00E54FDC /* udayam.png */; };
 		59400EF6D1E34889AEF6CE92 /* FontAwesome.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4E338667167441E2A689DAB4 /* FontAwesome.ttf */; };
 		59E711167B8F471BB588C8EC /* libAirMaps.a in Frameworks */ = {isa = PBXBuildFile; fileRef = DA48E377EA254C2B946E009A /* libAirMaps.a */; };
 		5E9157361DD0AC6A00FF2AA8 /* libRCTAnimation.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5E9157331DD0AC6500FF2AA8 /* libRCTAnimation.a */; };
@@ -251,6 +252,7 @@
 		399E88E3607C4FED9F1CAA30 /* libRNVectorIcons.a */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = archive.ar; path = libRNVectorIcons.a; sourceTree = "<group>"; };
 		43AD84772E494FAA8915FA9F /* EvilIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = EvilIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/EvilIcons.ttf"; sourceTree = "<group>"; };
 		4E338667167441E2A689DAB4 /* FontAwesome.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome.ttf"; sourceTree = "<group>"; };
+		502BEE061E5E5A1D00E54FDC /* udayam.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = udayam.png; sourceTree = "<group>"; };
 		557593226E3C4C238C52BD1A /* libReactNativeConfig.a */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = archive.ar; path = libReactNativeConfig.a; sourceTree = "<group>"; };
 		55E667F3854D4B7B9822F875 /* MaterialIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = MaterialIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/MaterialIcons.ttf"; sourceTree = "<group>"; };
 		5E91572D1DD0AC6500FF2AA8 /* RCTAnimation.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTAnimation.xcodeproj; path = "../node_modules/react-native/Libraries/NativeAnimation/RCTAnimation.xcodeproj"; sourceTree = "<group>"; };
@@ -390,6 +392,7 @@
 				13B07FB51A68108700A75B9A /* Images.xcassets */,
 				13B07FB61A68108700A75B9A /* Info.plist */,
 				13B07FB11A68108700A75B9A /* LaunchScreen.xib */,
+				502BEE061E5E5A1D00E54FDC /* udayam.png */,
 				13B07FB71A68108700A75B9A /* main.m */,
 			);
 			name = udayam;
@@ -584,6 +587,9 @@
 					00E356ED1AD99517003FC87E = {
 						CreatedOnToolsVersion = 6.2;
 						TestTargetID = 13B07F861A680F5B00A75B9A;
+					};
+					13B07F861A680F5B00A75B9A = {
+						DevelopmentTeam = LUAAW69QQN;
 					};
 				};
 			};
@@ -864,6 +870,7 @@
 			files = (
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */,
+				502BEE071E5E5A1D00E54FDC /* udayam.png in Resources */,
 				43472D0813FB448DA2CBE420 /* Entypo.ttf in Resources */,
 				CA006D2E1E02431CAF522C90 /* EvilIcons.ttf in Resources */,
 				59400EF6D1E34889AEF6CE92 /* FontAwesome.ttf in Resources */,
@@ -987,6 +994,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = NO;
+				DEVELOPMENT_TEAM = LUAAW69QQN;
 				INFOPLIST_FILE = udayam/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -1004,6 +1012,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = LUAAW69QQN;
 				INFOPLIST_FILE = udayam/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
